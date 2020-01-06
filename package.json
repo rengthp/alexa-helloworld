@@ -17,5 +17,8 @@
   "license": "ISC",
   "dependencies": {
     "ask-sdk": "^2.7.0"
+  },
+  "devDependencies": {
+    "alexa-skill-test-framework": "^1.2.4"
   }
 }
